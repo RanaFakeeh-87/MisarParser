@@ -1,2 +1,2 @@
 # MisarParser
-Parse YAML, POM and JAVA artifacts into MiSAR PSM model.
+A python application to parse YAML, XML and JAVA artifacts of a microservice architecture  project into a MiSAR PSM model.
